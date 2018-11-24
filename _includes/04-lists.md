@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+* Hacienda 
+* Mucho Mas
+* McDonalds
+* T-Berry Diner
