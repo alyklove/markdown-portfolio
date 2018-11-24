@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Homework](http://www.ejinsight.com/wp-content/uploads/2017/01/1474553_97134acb6717a35571f4a705fac90669-692x360.jpg)
